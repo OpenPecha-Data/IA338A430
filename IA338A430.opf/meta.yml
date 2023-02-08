@@ -1,0 +1,16 @@
+id: IA338A430
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:10:30.657563
+last_modified: 2023-02-08 16:10:30.657777
+source_metadata:
+  title: 'Aśvaghoṣa: Buddhacarita'
+  language: zh
+bases:
+  '4782':
+    base_file: 4782.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
